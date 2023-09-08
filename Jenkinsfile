@@ -25,7 +25,7 @@
             nexusArtifactUploader artifacts: [[artifactId: 'bioMedical',
              classifier: '', file: 'target/bioMedical-0.0.2-SNAPSHOT.jar',
               type: 'jar']], credentialsId: '', groupId: 'qa',
-               nexusUrl: '198.58.119.40:8081/repository/mohamed-repo',
+               nexusUrl: '198.58.119.40:8081',
                 nexusVersion: 'nexus3', protocol: 'http', 
                 repository: 'mohamed-repo', version: '002'
         }
